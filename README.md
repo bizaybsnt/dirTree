@@ -7,5 +7,5 @@ A nodejs application which takes in a path (can be c:\, e:\ or e:\mainfolder) as
 ```
 https://github.com/bizaybsnt/dirTree.git
 cd dirTree
-npm install
+node index.js E:\ 
 ```
